@@ -30,6 +30,15 @@
   .header-2 {
     padding: 1.5em;
   }
+  .social-media{
+    text-align: left;
+  }
+  .social-media img{
+    margin:.2em 1em;
+  }
+  .social-media  br{
+    display: none
+  }
   .header-231 hr {
     display: none;
   }
